@@ -1,0 +1,2 @@
+<h1>Contact</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores quam numquam, quod qui, at fugiat quasi debitis quia labore tempore exercitationem possimus necessitatibus sunt praesentium quaerat magnam id consequatur. Veritatis.</p>
